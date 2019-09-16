@@ -7,11 +7,11 @@ Quote    : "<span id="k">Kill the ego! and get back to learning.</span>"
 
 <br/>
 
-<span id="a">pritam@sfdc</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->professional-exp.txt<br/>
+<span id="a">pritam@sfdc</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->professional-exp.txt
 
 Work Experience : 3.10 years
 Technology      : Salesforce
-Expertise       : Lightning Experience, Apex, Standard OOTB functionality, etc, etc, etc......
+Expertise       : Lightning Experience, Apex, Integration, all kinds of clouds, etc, etc, etc......
 Goal            : Salesforce Technical Architect (....very long way to go!!)
 
 <br/>
@@ -46,6 +46,6 @@ Psst.. Check it out :  <a href="https://appexchange.salesforce.com/appxListingDe
 <a href="https://www.instagram.com/petrolhead6026/">Instagram</a>.</p>  
 <br>
 
-<p>Cheers!</p>
+Cheers!!
 
 <span id="a">pritam@sfdc</span>:<span id="b">~</span><span id="c">$</span> exit<br/>
