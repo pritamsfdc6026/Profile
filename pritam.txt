@@ -3,7 +3,6 @@
 Name     : Pritam Patil
 Work     : Salesforce Developer
           <p>....Gamer, Motorcyclist, Technology Enthusiast.</p>
-Employer : <a href="https://www.centelon.com">Centelon</a>
 Quote    : "<span id="k">Kill the ego! and get back to learning.</span>"
 
 <br/>
@@ -13,7 +12,7 @@ Quote    : "<span id="k">Kill the ego! and get back to learning.</span>"
 Work Experience : 3.10 years
 Technology      : Salesforce
 Expertise       : Lightning Experience, Apex, Standard OOTB functionality, etc, etc, etc......
-Goal            : Salesforce Architect (....very long way to go!!)
+Goal            : Salesforce Technical Architect (....very long way to go!!)
 
 <br/>
 
@@ -25,9 +24,9 @@ Goal            : Salesforce Architect (....very long way to go!!)
 
 <span id="a">pritam@sfdc</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->certifications.txt<br/>
 
-"<span id="k">Salesforce Certified Administrator</span>"
-"<span id="k">Salesforce Certified Platform App Builder</span>"
-"<span id="k">Salesforce Certified Platform Developer I</span>"
+~ "<span id="k">Salesforce Certified Administrator</span>"
+~ "<span id="k">Salesforce Certified Platform App Builder</span>"
+~ "<span id="k">Salesforce Certified Platform Developer I</span>"
 
 <br/>
 
@@ -36,7 +35,7 @@ Goal            : Salesforce Architect (....very long way to go!!)
 Salesforce Ranger
 Centelon's Employee of the month
 AppExchange product developer. 
-Psst.. Take a look at it :  <a href="https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3A00000FP2Z4UAL">CELISA</a>
+Psst.. Check it out :  <a href="https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3A00000FP2Z4UAL">CELISA</a>
 
 <br/>
 
