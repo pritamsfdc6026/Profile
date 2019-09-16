@@ -43,8 +43,10 @@ Psst.. Take a look at it :  <a href="https://appexchange.salesforce.com/appxList
 <span id="a">pritam@sfdc</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->socialmedia.txt<br/>
 <p> Social Media links : <br> 
 <a href="https://www.linkedin.com/in/patilpritam/">LinkedIn</a>.
-<br> <a href="https://trailhead.com/me/patilp">Trailhead</a>.
-<br> <a href="https://www.instagram.com/petrolhead6026/">Instagram</a>.</p>  
-<br><br>
+<a href="https://trailhead.com/me/patilp">Trailhead</a>.
+<a href="https://www.instagram.com/petrolhead6026/">Instagram</a>.</p>  
+<br>
 
 <p>Cheers!</p>
+
+<span id="a">pritam@sfdc</span>:<span id="b">~</span><span id="c">$</span> exit<br/>
