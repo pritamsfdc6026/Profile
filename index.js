@@ -97,7 +97,7 @@ function replaceUrls(text) {
 }
 
 Typer.speed=3;
-Typer.file="pritam.txt"; // add your own name here
+Typer.file="pritam.txt"; 
 Typer.init();
  
 var timer = setInterval("t();", 30);
