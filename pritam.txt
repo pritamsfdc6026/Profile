@@ -1,18 +1,42 @@
 <span id="a">pritam@sfdc</span>:<span id="b">~</span><span id="c">$</span> cd pritam/
 <span id="a">pritam@sfdc</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->introduction.txt<br/><br/>
 
-Name : Pritam Patil
-Work : Salesforce Developer
-       <p>....Gamer, Motorcyclist, Technology Enthusiast.</p>
+Name     : Pritam Patil
+Work     : Salesforce Developer
+          <p>....Gamer, Motorcyclist, Technology Enthusiast.</p>
+Employer : <a href="https://www.centelon.com">Centelon</a>
+Quote    : "<span id="k">Kill the ego, And get back to learning.</span>"
 
-My favorite code quote, "<span id="k">Quote you like</span>". <!-- sjkfhskjf -->
+<span id="a">pritam@sfdc</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->professional-exp.txt<br/><br/>
 
-Hey There! This is the portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
-<p>You can introduce yourself here.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
-<p> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
-<p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
-<p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
+Work Experience : 3.10 years
+Technology      : Salesforce
+Expertise       : Lightning Experience, Apex, Standard OOTB functionality, etc, etc, etc......
+Goal            : Salesforce Architect (....very long way to go!!)
 
-You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="Your email ID">Email</a>.
+<span id="a">pritam@sfdc</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->skills.txt<br/><br/>
+<span style="red">Mad Skills !!</span>
+<span style="red"><b>System.NoSuchElementException:</b></span> Iterator has no more elements.
+
+<span id="a">pritam@sfdc</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->certifications.txt<br/><br/>
+
+"<span id="k">Salesforce Certified Administrator</span>"
+"<span id="k">Salesforce Certified Platform App Builder</span>"
+"<span id="k">Salesforce Certified Platform Developer I</span>"
+
+<span id="a">pritam@sfdc</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->achievements.txt<br/><br/>
+
+Salesforce Ranger
+Centelon's Employee of the month
+AppExchange product developer. 
+Psst.. Take a look at it -> <a href="https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3A00000FP2Z4UAL">CELISA</a>
+
+
+<span id="a">pritam@sfdc</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->socialmedia.txt<br/><br/>
+<p> Social Media links : <br> 
+<a href="https://www.linkedin.com/in/patilpritam/">LinkedIn</a> 
+<br> <a href="https://trailhead.com/me/patilp">Trailhead</a>.</p>
+<br> <a href="https://www.instagram.com/petrolhead6026/">Instagram</a>  
+<br><br>
 
 <p>Cheers!</p>
