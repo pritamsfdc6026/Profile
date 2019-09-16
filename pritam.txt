@@ -1,9 +1,9 @@
 <span id="a">pritam@sfdc</span>:<span id="b">~</span><span id="c">$</span> cd pritam/
-<span id="a">pritam@sfdc</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->introduction.txt<br/>
+<span id="a">pritam@sfdc</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->introduction.txt
 Name     : Pritam Patil
 Work     : Salesforce Developer
           <p>....Gamer, Motorcyclist, Technology Enthusiast.</p>
-Quote    : "<span id="k">Kill the ego! and get back to learning.</span>"
+Quote    : <span id="k">Kill the ego! and get back to learning.</span>
 
 <br/>
 
@@ -16,21 +16,21 @@ Goal            : Salesforce Technical Architect (....very long way to go!!)
 
 <br/>
 
-<span id="a">pritam@sfdc</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->skills.txt<br/>
+<span id="a">pritam@sfdc</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->skills.txt
 <span style="red">Mad Skills !!</span>
 <span style="red"><b>System.NoSuchElementException:</b></span> Iterator has no more elements.
 
 <br/>
 
-<span id="a">pritam@sfdc</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->certifications.txt<br/>
+<span id="a">pritam@sfdc</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->certifications.txt
 
-~ "<span id="k">Salesforce Certified Administrator</span>"
-~ "<span id="k">Salesforce Certified Platform App Builder</span>"
-~ "<span id="k">Salesforce Certified Platform Developer I</span>"
+~ <span id="k">Salesforce Certified Administrator</span>
+~ <span id="k">Salesforce Certified Platform App Builder</span>
+~ <span id="k">Salesforce Certified Platform Developer I</span>
 
 <br/>
 
-<span id="a">pritam@sfdc</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->achievements.txt<br/>
+<span id="a">pritam@sfdc</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->achievements.txt
 
 Salesforce Ranger
 Centelon's Employee of the month
@@ -39,7 +39,7 @@ Psst.. Check it out :  <a href="https://appexchange.salesforce.com/appxListingDe
 
 <br/>
 
-<span id="a">pritam@sfdc</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->socialmedia.txt<br/>
+<span id="a">pritam@sfdc</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->socialmedia.txt
 <p> Social Media links : <br> 
 <a href="https://www.linkedin.com/in/patilpritam/">LinkedIn</a>.
 <a href="https://trailhead.com/me/patilp">Trailhead</a>.
