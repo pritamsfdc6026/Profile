@@ -17,8 +17,8 @@ Goal            : Salesforce Technical Architect (....very long way to go!!)
 <br/>
 
 <span id="a">pritam@sfdc</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->skills.txt
-<span style="red">Mad Skills !!</span>
-<span style="red"><b>System.NoSuchElementException:</b></span> Iterator has no more elements.
+<span id="op">Mad Skills !!</span>
+<span id="op"><b>System.NoSuchElementException:</b></span> Iterator has no more elements.
 
 <br/>
 
