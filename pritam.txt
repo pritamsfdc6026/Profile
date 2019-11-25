@@ -9,7 +9,7 @@ Quote    : <span id="k">Kill the ego! and get back to learning.</span>
 
 <span id="a">pritam@sfdc</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->professional-exp.txt
 
-Work Experience : 3.10 years
+Work Experience : 4.1 years
 Technology      : Salesforce
 Expertise       : Lightning Experience, Apex, Integration, all kinds of clouds, etc, etc, etc......
 Goal            : Salesforce Technical Architect (....very long way to go!!)
