@@ -9,9 +9,9 @@ Quote    : <span id="k">Kill the ego! and get back to learning.</span>
 
 <span id="a">pritam@sfdc</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->professional-exp.txt
 
-Work Experience : 4+ years
+Work Experience : 5+ years
 Technology      : Salesforce
-Expertise       : Lightning Experience, Apex, Integration, all kinds of clouds, etc, etc, etc......
+Expertise       : LWC Development, Lightning Development, Apex, Integration, and various salesforce clouds
 Goal            : Salesforce Technical Architect (....very long way to go!!)
 
 <br/>
@@ -36,7 +36,7 @@ Goal            : Salesforce Technical Architect (....very long way to go!!)
 
 Salesforce Ranger
 Centelon's Employee of the month
-AppExchange product developer. 
+AppExchange product developer
 Psst.. Check it out :  <a href="https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3A00000FP2Z4UAL">CELISA</a>
 
 <br/>
@@ -49,5 +49,6 @@ Psst.. Check it out :  <a href="https://appexchange.salesforce.com/appxListingDe
 <br>
 
 Cheers!!
-
+<br>
+PS: This is a fun little project I did for personal learning.
 <span id="a">pritam@sfdc</span>:<span id="b">~</span><span id="c">$</span> exit<br/>
